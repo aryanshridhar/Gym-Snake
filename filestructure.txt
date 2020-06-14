@@ -1,0 +1,11 @@
+.
+├── filestructure.txt
+└── Gym-Snake
+    ├── Gym-Snake
+    │   ├── envs
+    │   │   ├── Gym-Snake.py
+    │   │   └── __init__.py
+    │   └── __init__.py
+    └── setup.py
+
+3 directories, 5 files
