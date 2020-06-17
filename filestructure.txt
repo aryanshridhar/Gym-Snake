@@ -1,11 +1,8 @@
 .
 ├── filestructure.txt
-└── Gym-Snake
-    ├── Gym-Snake
-    │   ├── envs
-    │   │   ├── Gym-Snake.py
-    │   │   └── __init__.py
-    │   └── __init__.py
-    └── setup.py
+├── Original Snake
+│   └── Snake Game.py
+└── Q-Learn Snake
+    └── Q-Learn Snake.py
 
-3 directories, 5 files
+2 directories, 3 files
